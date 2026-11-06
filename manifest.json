@@ -1,0 +1,25 @@
+{
+ "name": "Come This Way: Language Play",
+ "short_name": "Language Play",
+ "description": "Play together in your own language with CJ, MD and Pip.",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#fff6dd",
+ "theme_color": "#ee4d8f",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
